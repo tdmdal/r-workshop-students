@@ -1,0 +1,55 @@
+---
+title: "Intro to R"
+---
+
+* [Slides](r_intro_students.pdf)
+* Code
+    * Motivation
+        * A simple regression example (R script: [r1_simple_regression_housing.R](r1_simple_regression.R); R notebook: [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-workshop-students/blob/master/docs/rn1_A_Simple_Regression_Housing.ipynb))
+        * A twitter example (R script: [twitter_example.R](twitter_example.R); Word Cloud for #rstat: [twitter_word_cloud.png](twitter_word_cloud.png))
+    * Data and Programming Structures (R script: [r2_data_and_programming_structures.R](r2_data_and_programming_structures.R); R notebook: [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-workshop-students/blob/master/docs/rn2_Data_and_Programming_Structures.ipynb))
+    * Extending the simple regression example (R script: [r3_data_manipulation_modelling_report_housing.R](r3_data_manipulation_modelling_report.R))
+        * Data Manipulation
+        * Modelling
+        * Report and Graph
+        
+---       
+        
+* Materials from a past workshop (containing more details)
+    * Data structures
+        * [Vectors](extra_material/part1_1_vector.html)
+        * [Derived data structures](extra_material/part1_2_derived_ds.html)
+    * [Programming structures](extra_material/part1_3_function.html)
+    * [Data manipulation](extra_material/part2_data_manipulation.html)
+    * [Data visualization](extra_material/part3_visualization.html)
+
+---
+    
+* Free Resources
+    * R Programming
+        * [Hands-on Programming with R](https://rstudio-education.github.io/hopr/) (for absolute beginners, i.e., if you have never programmed before)
+        * [R for Data Science](https://r4ds.had.co.nz/) (learn how to manipulate, analyze and visualize data using R’s Tidyverse packages)
+        * [Advanced R](https://adv-r.hadley.nz/) (if you plan to be really good at R)
+        * [R Graphics Cookbook](https://r-graphics.org/)
+        * [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
+        * [The R Graph Gallery](https://www.r-graph-gallery.com/) (R graph samples with code)
+        * [R Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/) (cheat sheets for many popular R packages)
+        * [R for Stata Users](https://www.matthieugomez.com/statar/index.html) (if you are from the Stata world)
+    
+    * R for Empirical Analysis
+        * [Introduction to Econometrics with R](https://www.econometrics-with-r.org/)
+        * [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
+        * [Financial Engineering Analytics: A Practice Manual Using R](https://bookdown.org/wfoote01/faur/)
+
+    * R and Machine Learning
+        * [An Introduction to Statistical Learning / with Applications in R](http://faculty.marshall.usc.edu/gareth-james/ISL/index.html) (book and code)
+        * [R interface to Keras](https://tensorflow.rstudio.com/keras/) (deep learning in R)
+        
+    * Other Tutorials on Econometrics & Statistics using R
+        * [A Short R Tutorial](https://data.princeton.edu/R) by Germán Rodríguez
+        * [Introductory Econometrics Examples](https://justinmshea.github.io/wooldridge/articles/Introductory-Econometrics-Examples.html) (data and examples from Wooldridge)
+        * [STAT545](https://stat545.com/) by [Jenny Bryan](https://jennybryan.org/) : Data wrangling, exploration, and analysis with R
+
+---
+
+Back to [TDMDAL Computing Page](https://tdmdal.github.io/)
